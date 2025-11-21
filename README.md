@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Casey! I am currently 26 (on the date of writing this), born June 25 in the small town of Springfield MO. Nice to meet you!
+- 👋 Hi, I’m Casey! I am currently 27, born June 25 in the small town of Springfield MO. Nice to meet you!
 - 👀 I’m interested in gaming, boardgames, and movies!
 - 🌱 I’m currently learning Software Engineering practices including Python, JAVA, HTML+CSS, and other programs.
 - 💞️ I’m looking to collaborate on anything! The more exposure I get while learning the stronger my foundation is for coding!
